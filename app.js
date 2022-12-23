@@ -70,12 +70,6 @@ app.listen(process.env.PORT || 3000, function(){
 })
 
 
-// API key
-// b84ac0be49f68dfc1d500af83dcd3287-us20
-
-// list id
-// 84022cdd32
-
 // TO UPDATE :
 // You need to perform:
 //
