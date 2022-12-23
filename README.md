@@ -1,4 +1,6 @@
 # Newsletter 
+When we talk about newsletter signup, we're referring to a process by which visitors elect to receive updates from an online business through email. 
+By using an email newsletter signup form, visitors can enter their name and email address and hit subscribe.
 # Signup page
 <img width="1440" alt="signup" src="https://user-images.githubusercontent.com/71868334/209302173-4cdcfb3f-1fc0-423f-91e7-68bf80581269.png">
 
